@@ -1,0 +1,6 @@
+.DS_Store
+.mypy_cache
+*.swp
+*.autosave
+__pycache__/
+.vscode/.ropeproject/

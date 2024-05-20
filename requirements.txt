@@ -1,0 +1,4 @@
+PyAudio==0.2.11
+pyserial==3.5
+osc4py3==1.0.8
+mypy==0.800

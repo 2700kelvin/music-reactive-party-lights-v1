@@ -1,0 +1,5 @@
+{
+  "reportUnusedClass": true,
+  "reportUnusedVariable": true,
+  "reportUnusedFunction": true
+}
